@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/TeslaRC/static/css/main.207e937f.chunk.css",
+    "main.js": "/TeslaRC/static/js/main.96c02a98.chunk.js",
+    "main.js.map": "/TeslaRC/static/js/main.96c02a98.chunk.js.map",
+    "runtime-main.js": "/TeslaRC/static/js/runtime-main.5659ad6c.js",
+    "runtime-main.js.map": "/TeslaRC/static/js/runtime-main.5659ad6c.js.map",
+    "static/js/2.5779f7d8.chunk.js": "/TeslaRC/static/js/2.5779f7d8.chunk.js",
+    "static/js/2.5779f7d8.chunk.js.map": "/TeslaRC/static/js/2.5779f7d8.chunk.js.map",
+    "index.html": "/TeslaRC/index.html",
+    "precache-manifest.06f794d15d6281ec211debfcf0a4b29e.js": "/TeslaRC/precache-manifest.06f794d15d6281ec211debfcf0a4b29e.js",
+    "service-worker.js": "/TeslaRC/service-worker.js",
+    "static/css/main.207e937f.chunk.css.map": "/TeslaRC/static/css/main.207e937f.chunk.css.map",
+    "static/js/2.5779f7d8.chunk.js.LICENSE.txt": "/TeslaRC/static/js/2.5779f7d8.chunk.js.LICENSE.txt",
+    "static/media/TeslaWheels.css": "/TeslaRC/static/media/21.a52693ae.svg",
+    "static/media/TeslaStats.css": "/TeslaRC/static/media/p100d.62ed87b4.svg",
+    "static/media/index.css": "/TeslaRC/static/media/Roboto-Regular-webfont.da61d7ef.svg",
+    "static/media/TeslaClimate.css": "/TeslaRC/static/media/heat-on.2c61b1a6.svg",
+    "static/media/TeslaCounter.css": "/TeslaRC/static/media/up.b3fc73bf.svg",
+    "static/media/logo.svg": "/TeslaRC/static/media/logo.99c8f204.svg",
+    "static/media/TeslaCar.css": "/TeslaRC/static/media/wheel-21.e787dc92.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5659ad6c.js",
+    "static/js/2.5779f7d8.chunk.js",
+    "static/css/main.207e937f.chunk.css",
+    "static/js/main.96c02a98.chunk.js"
+  ]
+}
